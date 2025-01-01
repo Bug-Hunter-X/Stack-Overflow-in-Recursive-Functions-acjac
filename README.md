@@ -1,0 +1,1 @@
+This repository contains a Hack program that demonstrates a stack overflow error. The program uses recursive functions, and if the input is too large, it will cause a stack overflow.  Hack, unlike some other languages, does not implement tail-call optimization, leading to this issue. The solution provides an iterative approach to avoid the stack overflow.
